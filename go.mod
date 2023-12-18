@@ -73,12 +73,12 @@ require (
 	github.com/ulikunitz/xz v0.5.8
 	github.com/zclconf/go-cty v1.9.0
 	github.com/zclconf/go-cty-yaml v1.0.1
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
-	golang.org/x/mod v0.4.1
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
+	golang.org/x/crypto v0.17.0
+	golang.org/x/mod v0.8.0
+	golang.org/x/net v0.10.0
 	golang.org/x/oauth2 v0.0.0-20210313182246-cd4f82c27b84
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/tools v0.1.0
+	golang.org/x/sync v0.1.0
+	golang.org/x/tools v0.6.0
 	google.golang.org/grpc v1.36.1
 )
 
