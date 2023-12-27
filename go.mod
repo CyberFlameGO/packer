@@ -6,10 +6,10 @@ require (
 	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
 	github.com/dsnet/compress v0.0.1
 	github.com/exoscale/packer-plugin-exoscale v0.1.1
-	github.com/go-git/go-git/v5 v5.4.2
+	github.com/go-git/go-git/v5 v5.11.0
 	github.com/go-openapi/runtime v0.19.24
 	github.com/gobwas/glob v0.2.3
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.6.0
 	github.com/google/go-github/v33 v33.0.1-0.20210113204525-9318e629ec69
 	github.com/hako/durafmt v0.0.0-20200710122514-c0fb7b4da026
 	github.com/hashicorp/go-checkpoint v0.0.0-20171009173528-1545e56e46de
@@ -69,16 +69,16 @@ require (
 	github.com/pierrec/lz4 v2.5.2+incompatible
 	github.com/posener/complete v1.2.3
 	github.com/shirou/gopsutil v3.21.1+incompatible
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.4
 	github.com/ulikunitz/xz v0.5.8
 	github.com/zclconf/go-cty v1.9.0
 	github.com/zclconf/go-cty-yaml v1.0.1
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
-	golang.org/x/mod v0.4.1
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
+	golang.org/x/crypto v0.16.0
+	golang.org/x/mod v0.12.0
+	golang.org/x/net v0.19.0
 	golang.org/x/oauth2 v0.0.0-20210313182246-cd4f82c27b84
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/tools v0.1.0
+	golang.org/x/sync v0.3.0
+	golang.org/x/tools v0.13.0
 	google.golang.org/grpc v1.36.1
 )
 
